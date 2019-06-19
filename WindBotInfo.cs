@@ -16,13 +16,13 @@ namespace WindBot
         public bool Chat { get; set; }
         public WindBotInfo()
         {
-            Name = "WindBot";
+            Name = "Dueling Robot";
             Deck = null;
             Dialog = "default";
             Host = "127.0.0.1";
             Port = 7911;
             HostInfo = "";
-            Version = 0x134a;
+            Version = 0x133D;
             Hand = 0;
             Debug = false;
             Chat = true;
