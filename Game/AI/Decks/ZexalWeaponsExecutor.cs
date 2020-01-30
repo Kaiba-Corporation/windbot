@@ -7,7 +7,7 @@ using YGOSharp.OCGWrapper.Enums;
 
 namespace WindBot.Game.AI.Decks
 {
-    [Deck("Zexal Weapons", "AI_ZexalWeapons")]
+    [Deck("ZexalWeapons", "AI_ZexalWeapons")]
     class ZexalWeaponsExecutor : DefaultExecutor
     {
         public class CardId
